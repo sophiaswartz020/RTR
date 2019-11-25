@@ -1,0 +1,6 @@
+echo "# RTR" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sophiaswartz020/RTR.git
+git push -u origin master
